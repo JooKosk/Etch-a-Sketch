@@ -1,0 +1,2 @@
+Etch-a-Sketch is a short program done for the Odin project Web development 101 course. The program creates a 16x16 square grid by default, in which the user can mouseover the squares to color them and create a sketch on the grid.
+The program includes both light and dark themes, and a reset button to create a new clean grid sized by user input. 
